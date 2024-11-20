@@ -7,8 +7,8 @@ Requirements:\
     - An already configured Hadoop cluster (can be standalone or distributed cluster)\
 
 Demonstrations of this program are available at the following links:\
-    Part 1 - https://youtu.be/5zk4O0Jo6Yg \
-    Part 2 - https://youtu.be/2zPbZIr1CKQ
+    Part 1 -  \
+    Part 2 - 
 
 The datasets used in this program are available at:\
     https://www.kaggle.com/datasets/shibumohapatra/house-price \ 
